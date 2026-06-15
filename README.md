@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**industrialNettalco/industrialNettalco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# industrialNettalco
 
-Here are some ideas to get you started:
+**Área de Planeamiento · Nettalco S.A.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Web](https://img.shields.io/badge/nettalco.com.pe-web-1a1a2e?style=flat-square&logo=google-chrome)](https://www.nettalco.com.pe)
+
+</div>
+
+---
+
+Repositorios internos del área de Planeamiento de Nettalco. La mayoría son de acceso privado.
+
+Para el equipo: el punto de entrada es **[awesome-nettalco](https://github.com/industrialNettalco/awesome-nettalco)** 🔒 — índice de repos, servicios y documentación interna. Acceso restringido al equipo.
+
+---
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+---
+
+<div align="center">
+<sub><a href="https://www.nettalco.com.pe">nettalco.com.pe</a> · Lima, Perú</sub>
+</div>
